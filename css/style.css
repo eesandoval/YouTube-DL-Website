@@ -1,0 +1,267 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+body {
+	background-color: rgb(49, 40, 51);
+}
+
+#i21f0x {
+	display: none;
+}
+
+#ip295l {
+	margin: 0 0 30px 0;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.header-banner {
+	background-image: url("/img/bg-gr-v.png"), url("/img/bg.png");
+	color: rgb(255, 255, 255);
+	padding-top: 35px;
+	padding-bottom: 50px;
+	font-family: Helvetica, serif;
+	font-weight: 100;
+	background-position-x: left, center;
+	background-position-y: top, center;
+	background-repeat: repeat-y, no-repeat;
+	background-attachment: scroll, scroll;
+	background-size: contain, cover;
+	padding: 35px 0 35px 0;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.logo-container {
+	width: 50%;
+	float: left;
+}
+
+.menu {
+	width: 50%;
+	float: right;
+}
+
+.menu-item {
+	width: 130px;
+	text-align: center;
+	color: rgb(238, 238, 238);
+	line-height: 30px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	font-size: 15px;
+	font-weight: 400;
+	min-height: 50px;
+	float: right;
+}
+
+.lead-title {
+	font-size: 40px;
+	margin-top: 150px;
+	margin-right: 0px;
+	margin-bottom: 30px;
+	margin-left: 0px;
+	margin: 69px 0 30px 0;
+	padding: 0 0 0 15px;
+}
+
+.sub-lead-title {
+	color: rgb(198, 198, 198);
+	line-height: 30px;
+	margin-bottom: 30px;
+	max-width: 650px;
+	padding: 0 0 0 15px;
+}
+
+.blk-sect {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	font-family: Helvetica, serif;
+	background-color: #222222;
+	color: #ffffff;
+	font-weight: 100;
+	font-size: 15px;
+	text-align: left;
+	padding: 75px 0 75px 0;
+}
+
+.blk-title {
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-size: 25px;
+	margin-bottom: 15px;
+	margin: 0 0 30px 0;
+}
+
+.blk-desc {
+	font-size: 15px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 50%;
+	color: #000000;
+	text-align: center;
+	font-weight: 400;
+	background-color: #ffffff;
+	margin: 0 auto 0 25%;
+	border: none;
+}
+
+.downloads {
+	margin-top: 70px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin: 0 0 30px 0;
+	font-size: 12px;
+	font-weight: 100;
+	color: #ffffff;
+	justify-content: center;
+}
+
+.price-card-cont {
+	width: 300px;
+	padding-top: 7px;
+	padding-right: 7px;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	float: left;
+}
+
+:nth-of-type(2n).pc-feature {
+	background-color: transparent;
+}
+
+.footer-under {
+	color: rgb(238, 238, 238);
+	padding-top: 100px;
+	padding-bottom: 100px;
+	font-family: Helvetica, serif;
+	font-weight: 100;
+	position: relative;
+	background-color: rgb(49, 40, 51);
+	padding: 35px 0 35px 0;
+}
+
+.Download-Button {
+	padding: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 225px;
+	float: none;
+	margin: 0 0 0 30px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+	background-color: #ffffff;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.Download-Button:hover {
+	color: rgb(255, 255, 255);
+	background-color: rgba(17, 13, 13, 0.46);
+	border: none black;
+	border-top-color: black;
+	border-right-color: black;
+	border-bottom-color: black;
+	border-left-color: black;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-image-source: none;
+	border-image-slice: 100%;
+	border-image-width: 1;
+	border-image-outset: 0;
+	border-image-repeat: stretch;
+}
+
+.Download-Button:active {
+	padding: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 225px;
+	float: none;
+	margin: 0 0 0 30px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.c9078 {
+	padding: 10px;
+	text-align: center;
+}
+
+.footer-note {
+	padding: 10px;
+	text-align: center;
+}
+
+.price-card-cont.footer-box {
+	width: 300px;
+}
+
+.footer-box {
+	width: 200px;
+	padding: 7px 7px 7px 7px;
+}
+
+.footer-notes {
+	align-items: center;
+	flex-direction: row;
+	display: flex;
+	justify-content: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: rgb(255, 255, 255);
+}
+
+a:visited {
+	color: rgb(255, 255, 255);
+}
+
+a:hover {
+	color: red;
+}
+
+a:active {
+	color: yellow;
+}
